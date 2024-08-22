@@ -1,3 +1,3 @@
 # test
-test repo for git commands demonstration
+All the practice code files
 
